@@ -1,4 +1,9 @@
-# mdeval
+# NIST md-eval in Python
+
+[![Python Package](https://github.com/wq2012/mdeval/actions/workflows/python-package.yml/badge.svg)](https://github.com/wq2012/mdeval/actions/workflows/python-package.yml)
+[![PyPI Version](https://img.shields.io/pypi/v/mdeval.svg)](https://pypi.python.org/pypi/mdeval)
+[![Python Versions](https://img.shields.io/pypi/pyversions/mdeval.svg)](https://pypi.org/project/mdeval)
+[![Downloads](https://static.pepy.tech/badge/mdeval)](https://pepy.tech/project/mdeval)
 
 A Python implementation of the NIST `md-eval.pl` script for evaluating rich transcription and speaker diarization accuracy. This tool mimics the core functionality and scoring logic of the standard Perl script used in NIST evaluations (e.g., RT-0x), focusing on Diarization Error Rate (DER).
 

@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mdeval"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Python implementation of the NIST md-eval.pl script for evaluating rich transcription accuracy."
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-  {name = "User", email = "user@example.com"},
+  {name = "Quan Wang", email = "quanw@google.com"},
 ]
 dependencies = []
 
