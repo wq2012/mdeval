@@ -1,1 +1,4 @@
 downloads/*
+debug/*
+*.pyc
+dist/*
